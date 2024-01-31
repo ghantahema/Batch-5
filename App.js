@@ -8,6 +8,7 @@ function App() {
       <RegistrationForm />
     </div>
   );
+  
 }
 
 export default App;
